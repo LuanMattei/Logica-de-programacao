@@ -14,7 +14,8 @@ public class retanguloAreaPerimetro {
       base = sc.nextDouble();
       double area = base *height;
       double perimetro = 2*(base + height);
-      System.out.printf("\nÁrea:%.2f"+ "\nPerimetro: %.2f", area ,perimetro);
+      System.out.printf("\nÁrea:%.2f"+ "\nPerímetro: %.2f", area ,perimetro);
+      System.out.println("\nSystem stoped...");
       sc.close();
   }
 }
