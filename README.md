@@ -9,5 +9,6 @@ Para acessar o material de base para esses exercícios : "file:///C:/Users/Deskt
 3. Área e perímetro do quadrado.
 4. Perímetro do  triângulo.
 5. Ler número inteiro e mostrar o anterior.
-6. Ler dois números inteiros e exibir o quociente e o resto da divisão inteira entre eles
+6. Ler dois números inteiros e exibir o quociente e o resto da divisão inteira entre eles.
+7. Usuário informa o valor do saque e o sistema irá decidir quais notas serão retornadas ao usuário seguindo a ordem de 100,50,20,10,1.
 
