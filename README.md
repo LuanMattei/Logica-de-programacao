@@ -2,7 +2,7 @@
 
 Este repositório foi criado para armazenar exercícios de lógica de programação. 
 
-Para acessar o material de base para esses exercícios : "file:///C:/Users/Desktop/Downloads/ListaProgramacaoV5.pdf"
+Para acessar o material de base para esses exercícios : "https://ads.ifba.edu.br/dl1012"
 
 1. Área e perímetro do retângulo.
 2. Área e perímetro do circulo.
